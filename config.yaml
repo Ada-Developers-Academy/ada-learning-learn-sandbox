@@ -18,3 +18,14 @@ Standards:
         Type: Lesson
         UID: a8501e76d5a51bbc187312f875815160
         Path: /beccas-sandbox/sample-lesson.md
+  -
+    Title: Jayce's Sandbox
+    Description: Topic for Jayce's practice lessons
+    UID: 9f72e48c040f4ea9b67e282a8e89a9e6
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: c4b208dce5d149a5bb0a59fcc6b0ce9b
+        Path: /jayces-sandbox/sample-lesson.md
