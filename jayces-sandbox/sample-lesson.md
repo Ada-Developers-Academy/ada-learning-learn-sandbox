@@ -35,3 +35,5 @@ Which numeric part of JoJo's Bizarre Adventure does Mohammed Advol appear first?
 The name of the part is "Stardust Crusaders", and while it is the second season of the anime, it is not that "part".
 
 ### !end-hint
+
+### !end-challenge
