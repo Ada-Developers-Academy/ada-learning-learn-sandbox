@@ -29,3 +29,16 @@ Standards:
         Type: Lesson
         UID: c4b208dce5d149a5bb0a59fcc6b0ce9b
         Path: /jayces-sandbox/sample-lesson.md
+  -
+    Title: Paulina's Sandbox 
+    Description: Topic for Paulina's practice lessons
+    UID: a26f3a7a-6ca9-434b-8642-cef3b474e22e
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 110e3e60-32c8-4037-b76f-5374c19a4851
+        Path: /paulinas-topic/Intro.md
+
+
