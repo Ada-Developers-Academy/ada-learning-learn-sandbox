@@ -2,4 +2,4 @@
 
 Kyra's sample lesson
 
-[guess who](tang.land)
+[guess who](www.tang.land)
