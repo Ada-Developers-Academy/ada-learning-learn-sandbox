@@ -40,5 +40,17 @@ Standards:
         Type: Lesson
         UID: 110e3e60-32c8-4037-b76f-5374c19a4851
         Path: /paulinas-topic/Intro.md
+  -
+    Title: Kyra's Sandbox 
+    Description: Topic for Kyra's practice lessons
+    UID: 61b7d01e-e606-49e9-bc35-89e53d5efabd
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 1dc769a9-030b-44e7-b3d0-746e86fc6ad2
+        Path: /kyras-topic/getting-started.md
+ 
 
 
